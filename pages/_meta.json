@@ -1,7 +1,9 @@
 {
   "index": "Introduction",
-  "another": "Another Page",
+  "another": "The Journey",
   "advanced": "The Games",
+  "team": "The Team",
+  "funding": "The Funding",
   "about": {
     "title": "About",
     "type": "page"
