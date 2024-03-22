@@ -18,12 +18,12 @@ The University of Wollongong (Australia).
   </thead>
   <tbody>
     {[
-      { country: 'France', flag: '🇫🇷' },
-      { country: 'Ukraine', flag: '🇺🇦' }
+      { Name: 'Test1', Role: 'Biologist' },
+      { Name: 'Test2', Role: 'Biologist' }
     ].map(item => (
       <tr key={item.country}>
-        <td>{item.country}</td>
-        <td>{item.flag}</td>
+        <td>{item.Name}</td>
+        <td>{item.Role}</td>
       </tr>
     ))}
   </tbody>
