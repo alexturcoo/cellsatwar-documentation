@@ -8,6 +8,25 @@ The University of Wollongong (Australia).
 ![Hello](/gbc.png)
 ![Hello](/wollongong.png)
 
-## Past Members
+## Team Members
+<table>
+  <thead>
+    <tr>
+      <th>Country</th>
+      <th>Flag</th>
+    </tr>
+  </thead>
+  <tbody>
+    {[
+      { country: 'France', flag: '🇫🇷' },
+      { country: 'Ukraine', flag: '🇺🇦' }
+    ].map(item => (
+      <tr key={item.country}>
+        <td>{item.country}</td>
+        <td>{item.flag}</td>
+      </tr>
+    ))}
+  </tbody>
+</table>
 
-## Current Members
+
