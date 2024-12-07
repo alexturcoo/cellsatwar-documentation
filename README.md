@@ -5,3 +5,5 @@ This repository houses code I created to build a landing page for one of my four
 We conceptualized and created a suite of biological video games to investigate the effects of game based learning in post-secondary classrooms
 
 Click the link under the About section to see the landing page!
+
+![workflow](/imgs/sample.png)
